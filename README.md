@@ -2,6 +2,12 @@
 ## 
 ## My Submission of the initial task for the internship
 <hr>
+
+### First run cells of `Raw_to_CSV_Data.ipynb`
+### Then `Clean_Data.ipynb`
+### Finally `Main.ipynb`
+
+<hr>
 <h1>
   Author:<a href="https://chaudharyhamdan.me/">Chaudhary Hamdan</a><br>
   <hr>
